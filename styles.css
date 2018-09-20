@@ -2,6 +2,12 @@
   width: 200px;
   height: 100px;
   background-color: red;
+  border:50px;
+  border-color: green;
+  border-width:50px;
+  text-aling:center;
+padding:10px;
+
 }
 
 .container2 {
@@ -10,7 +16,10 @@
   background-color: yellow;
   position:absolute;
   left: 250px;
-  top: 20px;
+  top: 10px;
+  padding:10px;
+ text-aling:center;
+
 }
 
 .container3 {
@@ -19,5 +28,6 @@
   background-color: green;
   position:absolute;
   left: 500px;
-  top: 20px;
+  top: 10px;
+  padding:10px;
 }
